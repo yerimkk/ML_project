@@ -8,8 +8,8 @@
 3. **경제적 영향**: 니켈의 가격 변동과 금융의 불안정성은 기업의 수익성과 국가경제에 직접적인 영향을 미침
 4. **미래 예측 필요성**: 한국은 니켈 수입의존도가 높기 때문에, 안정적인 니켈 수급을 위해 가격과 공급망을 조기에 예측하고 대비하는 것이 중요
 
-![alt text](image-1.png)
-![image](https://github.com/user-attachments/assets/11418775-b1e1-450f-9409-79a7e16140a2)
+
+![image](https://github.com/user-attachments/assets/9c4d664f-6b6d-4b1c-8900-1c386864c10c)
 
 
 ### 목표
@@ -40,7 +40,8 @@
 
 ### 2024년 예측: 니켈 가격 하락 + 수급안정
 
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/0764a221-14da-4351-a74e-5e82b3158a27)
+
 
 - **2024년 니켈 가격 그래프**
   상반기에 니켈 가격이 하락할 것으로 예상했으나 실제 니켈 가격은 연초부터 상승하다가 5월 말에 하락. 하반기에는 과잉 공급과 수요 둔화로 인해 연말에 하락할 것으로 예상됨.
