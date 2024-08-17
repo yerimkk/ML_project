@@ -44,6 +44,14 @@
 
 ### 2024년 예측: 니켈 가격 하락 + 수급안정
 
+
+니켈 가격 하락 예측
+
+과거 패턴: 6-8월에 연중 최저점을 찍고 반등 예상
+변수 영향: 인도네시아의 과잉 공급 과 전기차 시장 성장 둔화
+하반기에 약간 상승 후 연말에 하락 예상
+![image](https://github.com/user-attachments/assets/87b0c5cc-0a46-4b1e-8235-911971b67006)
+
 ![image](https://github.com/user-attachments/assets/0764a221-14da-4351-a74e-5e82b3158a27)
 
 
