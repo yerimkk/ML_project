@@ -57,9 +57,13 @@
 
 수급 안정화 지수는 안정적인 수준을 유지할 것으로 보임
 
+![image](https://github.com/user-attachments/assets/c55ce1df-2545-4ce0-829f-d09bd8002c13)
+
+
 ### ⭐ 2024 상반기 실제 데이터와 예측 결과 비교 (가격, 공급위기) ⭐
 
-![image](https://github.com/user-attachments/assets/0764a221-14da-4351-a74e-5e82b3158a27)
+![image](https://github.com/user-attachments/assets/9206f00e-40f5-43b4-abb4-7b6e006fd9e8)
+
 
 상반기에 니켈 가격이 하락할 것으로 예상했으나 실제 니켈 가격은 연초부터 상승하다가 5월 말에 하락
 수급안정화지수가 20-60사이 : 수급안정 ⇒ 상반기 공급위기 예측 결과와 일치
