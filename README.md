@@ -57,7 +57,6 @@
 
 수급 안정화 지수는 안정적인 수준을 유지할 것으로 보임
 
-![image](https://github.com/user-attachments/assets/c55ce1df-2545-4ce0-829f-d09bd8002c13)
 
 
 ### ⭐ 2024 상반기 실제 데이터와 예측 결과 비교 (가격, 공급위기) ⭐
