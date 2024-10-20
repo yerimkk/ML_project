@@ -77,7 +77,8 @@ Yahoo Finance
 
 ⇒ 전반적으로 좋은 성능을 보인 SARIMA 모델 최종 선정
 
-![image](https://github.com/user-attachments/assets/70543a5e-7f3c-418f-bdf5-2ba07afcbd60)
+예측결과
+![image](https://github.com/user-attachments/assets/d0f78ec8-c175-463d-a38a-a053e576f144)
 
 니켈 가격은 상반기 동안 큰 하락세를 보인 후, 6월에 급격히 반등할 것으로 예측
 생산량,소비량, 재고량 증가, 환율 변동성 예상
