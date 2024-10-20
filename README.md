@@ -54,7 +54,6 @@ Yahoo Finance
 • 원/달러 환율
 
 ### EDA
-![image](https://github.com/user-attachments/assets/80733527-ae3e-496f-94b0-1cace2c71b69)
 니켈 가격 변동 주요 요인
 • 인도네시아의 생산량 증가
 • 코로나 19, 전쟁과 같은 지정학적 리스크로 인한 시장 불확실성 
@@ -75,9 +74,11 @@ Yahoo Finance
 
 ### 시계열 예측 모델링 (Prophet & SARIMA)
 ![image](https://github.com/user-attachments/assets/6579ad4a-b844-4e95-95d3-58ae881c7e7f)
+
 ⇒ 전반적으로 좋은 성능을 보인 SARIMA 모델 최종 선정
 
 ![image](https://github.com/user-attachments/assets/70543a5e-7f3c-418f-bdf5-2ba07afcbd60)
+
 니켈 가격은 상반기 동안 큰 하락세를 보인 후, 6월에 급격히 반등할 것으로 예측
 생산량,소비량, 재고량 증가, 환율 변동성 예상
 
