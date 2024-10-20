@@ -87,7 +87,7 @@ Yahoo Finance
 
 1. 종합적인 관점에서 공급 위기를 평가하기 위해 여러 요인을 고려한 수급안정화지수를 기준으로 공급 위기 여부를 분류
 • 20 이하 : 공급위기 (1)
-• 21-100: 수급안정 (0)![image]
+• 21-100: 수급안정 (0)
 
 2. 모델 학습 : Random Forest, XGBoost, Logistic Regression
 • Feature : 가격, 재고량, 환율, 생산량, 소비량
