@@ -30,9 +30,9 @@
    
 5. 이진분류 모델링 : 공급위기 탐지
    - 수급안정화지수를 기준으로 이진분류 
-   - Random Forest, XGBoost, Logistic Regression 모델 사용하여 학습 
+   - Random Forest, XGBoost 모델 사용하여 학습 
    - 하이퍼파라미터 튜닝 후 교차검증
-   - 모델 비교 ⇒ Logistic Regression 모델 선정
+   - 모델 비교 ⇒ Random Forest 모델 선정
    - 2024년 니켈 공급위기 예측
      
 ### 데이터 수집
@@ -100,8 +100,8 @@ GridSearchCV로 최적 파라미터를 탐색 후 적용
 - XGBoost: 0.9287
 
 5. 모델선정 : Random Forest
-모든 폴드에서 균일한 성능과 높은 정확도를 보임
-Recall(1 클래스)이 대부분의 폴드에서 높은 값을 유지 
+- 모든 폴드에서 균일한 성능과 높은 정확도를 보임
+- Recall(1 클래스)이 대부분의 폴드에서 높은 값을 유지 
 
 6. 예측 결과
 SARIMA로 예측한 피처 값을 기반으로 공급위기 예측 
