@@ -111,7 +111,8 @@ SARIMA로 예측한 피처 값을 기반으로 공급위기 예측
 ### 📌 2024 상반기 실제 데이터와 예측 결과 비교 
 2024년 실제 데이터가 존재하는 니켈 가격, 재고량, 환율, 수급 안정화지수를 비교하여 모델의 예측 성능 및 공급 위기 예측의 신뢰성 평가
 
-![image](https://github.com/user-attachments/assets/01db4bf1-4aac-4c4e-a788-e8a2395b727b)
+![image](https://github.com/user-attachments/assets/22c8a129-722e-46f8-aa1e-78f325f01326)
+
 
 
 ① 니켈 가격
